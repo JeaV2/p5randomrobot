@@ -113,10 +113,9 @@ function drawEnvironment() {
   rect(tree2X, 195, 50, 205);
   fill("#228B22");
   ellipse(tree2X+25, 100, 200, 200);
-  // Grass
-  fill("#228B22");
 
   // Grass
+  fill("#228B22");
   let grass1X = random(0, width - 40);
   let grass2X = random(0, width - 40);
   let grass3X = random(0, width - 40);
